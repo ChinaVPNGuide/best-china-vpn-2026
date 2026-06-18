@@ -1,6 +1,5 @@
 # 2026 年还能用的翻墙 VPN 推荐 ｜ 快连退出后实测稳定的科学上网工具
 > 📖 在线阅读完整实测版：https://chinavpnguide.github.io/best-china-vpn-2026/
-
 > 持续更新的中国大陆翻墙工具实测清单。2026 年 4 月防火墙升级后，Shadowsocks / V2Ray / Trojan 大面积失效、快连 VPN 退出大陆，本仓库记录目前实测**还能稳定连**的 VPN 与协议方案。
 >
 > 关键词：2026 翻墙 / 科学上网 / 中国VPN推荐 / 快连VPN替代 / VLESS Reality / ChatGPT VPN / YouTube / Telegram / Windows / Mac / iOS / 安卓
