@@ -1,11 +1,25 @@
 # 2026 年还能用的翻墙 VPN 推荐 ｜ 快连退出后实测稳定的科学上网工具
-> 📖 在线阅读完整实测版：https://chinavpnguide.github.io/best-china-vpn-2026/
-> 
+
+> Last tested: **2026-07-04**
+>
+> 2026 年 7 月仍在持续更新，重点跟踪 **快连替代、ChatGPT 可用性、晚高峰稳定性**。
+>
+> 📖 在线阅读完整实测版：[chinavpnguide.github.io/best-china-vpn-2026](https://chinavpnguide.github.io/best-china-vpn-2026/)
+>
 > 持续更新的中国大陆翻墙工具实测清单。2026 年 4 月防火墙升级后，Shadowsocks / V2Ray / Trojan 大面积失效、快连 VPN 退出大陆，本仓库记录目前实测**还能稳定连**的 VPN 与协议方案。
 >
 > 关键词：2026 翻墙 / 科学上网 / 中国VPN推荐 / 快连VPN替代 / VLESS Reality / ChatGPT VPN / YouTube / Telegram / Windows / Mac / iOS / 安卓
 
 如果这个清单对你有帮助，点个 ⭐ Star，方便以后回来看更新。
+
+---
+
+## 2026-07 更新摘要
+
+- ✅ 继续跟踪 2026 年 4 月后中国大陆翻墙环境变化
+- ✅ 补充了 **快连 VPN 退出后替代方案** 的判断逻辑
+- ✅ 强化了 **ChatGPT / Claude / Gemini 可用性** 的场景说明
+- ✅ 维持 GitHub Pages 长文版同步更新，方便搜索引擎收录
 
 ---
 
@@ -21,6 +35,12 @@
 > 不想折腾、想直接试一个现在还能用的：去 [ZibVPN 官网](https://zibvpn.com/zh) 注册个账号免费试用，先连上看晚高峰稳不稳、ChatGPT 能不能用，不满意直接退。
 
 ---
+
+## Quick Links
+
+- 在线阅读（长文版）：[GitHub Pages](https://chinavpnguide.github.io/best-china-vpn-2026/)
+- 官网 / 注册免费试用：[ZibVPN 官网](https://zibvpn.com/zh)
+- 全平台下载：[下载客户端](https://zibvpn.com/zh/download)
 
 ## 为什么 2026 年大批 VPN 突然不能用了
 
@@ -53,8 +73,9 @@
 
 **缺点（实话实说）**：名气还不大、现成测评少；节点数量没国际大牌那么夸张；敏感期偶尔也波动，但恢复算快。
 
-👉 官网 / 注册免费试用：**https://zibvpn.com/zh**
-👉 全平台下载：**https://zibvpn.com/zh/download**
+👉 **官网 / 注册免费试用：[zibvpn.com/zh](https://zibvpn.com/zh)**
+
+👉 **全平台下载：[zibvpn.com/zh/download](https://zibvpn.com/zh/download)**
 
 ---
 
