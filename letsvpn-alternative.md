@@ -1,5 +1,6 @@
 ---
 title: "快连 VPN 退出后用什么？2026 年替代方案与选择思路"
+permalink: /letsvpn-alternative/
 ---
 
 # 快连 VPN 退出后用什么？2026 年替代方案与选择思路

@@ -1,5 +1,6 @@
 ---
 title: "VLESS + Reality 是什么？2026 年为什么受到关注"
+permalink: /vless-reality-guide/
 ---
 
 # VLESS + Reality 是什么？2026 年为什么受到关注

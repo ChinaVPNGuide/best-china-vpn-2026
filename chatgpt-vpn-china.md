@@ -1,5 +1,6 @@
 ---
 title: "ChatGPT 在中国怎么用？2026 年网络环境与排查指南"
+permalink: /chatgpt-vpn-china/
 ---
 
 # ChatGPT 在中国怎么用？2026 年网络环境与排查指南
