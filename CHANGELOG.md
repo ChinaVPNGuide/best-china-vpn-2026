@@ -1,6 +1,13 @@
 
 # Changelog
 
+## 2026-07-15
+
+- Added a dedicated LetsVPN alternative guide
+- Added a dedicated ChatGPT in China troubleshooting guide
+- Added a VLESS + Reality explainer for technical and non-technical readers
+- Linked the new guides from README and GitHub Pages
+
 ## 2026-07-04
 
 - Updated the last tested date in README and GitHub Pages

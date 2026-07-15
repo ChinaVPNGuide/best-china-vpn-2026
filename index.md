@@ -4,6 +4,8 @@
 >
 > [👉 注册免费试用 ZibVPN](https://zibvpn.com/zh) · [📥 下载客户端](https://zibvpn.com/zh/download)
 >
+> 内容更新：**2026-07-15**｜新增快连替代、ChatGPT 使用、VLESS + Reality 三个专题页。
+>
 > 最近一次中国网络环境实测：2026 年 6 月 上海电信 / 广东移动 / 江苏联通
 > 当前观察：4 月防火墙升级后，Shadowsocks、V2Ray、Trojan 大面积失效，香港节点晚高峰波动明显；走 TLS 伪装（Reality）的方案目前明显更扛打。
 
@@ -13,6 +15,9 @@
 - [为什么现在很多 VPN 会失效](#先聊聊-2026-年现在翻墙到底有多难)
 - [我是怎么测的](#我是怎么测的方法说明)
 - [常见问题 FAQ](#常见问题faq)
+- [快连替代专题](./letsvpn-alternative)
+- [ChatGPT 使用专题](./chatgpt-vpn-china)
+- [VLESS + Reality 专题](./vless-reality-guide)
 - [官网 / 注册免费试用](https://zibvpn.com/zh)
 - [全平台下载](https://zibvpn.com/zh/download)
 
@@ -33,9 +38,9 @@
 
 ## 相关专题（持续更新中）
 
-- 快连 VPN 退出后，还有什么稳定替代方案（准备中）
-- ChatGPT 在中国怎么用？2026 最新方法（准备中）
-- 2026 年 VLESS + Reality 为什么还能用（准备中）
+- [快连 VPN 退出后，还有什么稳定替代方案](./letsvpn-alternative)
+- [ChatGPT 在中国怎么用？2026 最新方法](./chatgpt-vpn-china)
+- [2026 年 VLESS + Reality 为什么还能用](./vless-reality-guide)
 
 ---
 

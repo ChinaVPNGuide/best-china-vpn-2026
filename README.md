@@ -2,7 +2,7 @@
 
 > Last tested: **2026-07-04**
 >
-> 2026 年 7 月仍在持续更新，重点跟踪 **快连替代、ChatGPT 可用性、晚高峰稳定性**。
+> 内容更新：**2026-07-15**｜持续跟踪 **快连替代、ChatGPT 可用性、晚高峰稳定性**。
 >
 > 📖 在线阅读完整实测版：[chinavpnguide.github.io/best-china-vpn-2026](https://chinavpnguide.github.io/best-china-vpn-2026/)
 >
@@ -14,11 +14,12 @@
 
 ---
 
-## 2026-07 更新摘要
+## 2026-07-15 更新摘要
 
 - ✅ 继续跟踪 2026 年 4 月后中国大陆翻墙环境变化
 - ✅ 补充了 **快连 VPN 退出后替代方案** 的判断逻辑
 - ✅ 强化了 **ChatGPT / Claude / Gemini 可用性** 的场景说明
+- ✅ 新增快连替代、ChatGPT 使用、VLESS + Reality 三个独立专题页
 - ✅ 维持 GitHub Pages 长文版同步更新，方便搜索引擎收录
 
 ---
@@ -36,7 +37,7 @@
 
 ---
 
-## Quick Links
+## 快速入口
 
 - 在线阅读（长文版）：[GitHub Pages](https://chinavpnguide.github.io/best-china-vpn-2026/)
 - 官网 / 注册免费试用：[ZibVPN 官网](https://zibvpn.com/zh)
@@ -44,10 +45,10 @@
 
 ## 相关专题（持续更新中）
 
-- `best-china-vpn-2026`：总榜单与长期更新入口
-- `letsvpn-alternative-2026`：快连退出后的替代方案专题（准备中）
-- `chatgpt-vpn-china-2026`：ChatGPT / Claude / Gemini 可用性专题（准备中）
-- `vless-reality-vpn-guide`：VLESS + Reality 技术与抗封锁专题（准备中）
+- [2026 年中国还能用的 VPN 推荐](https://chinavpnguide.github.io/best-china-vpn-2026/)：总榜单与长期更新入口
+- [快连 VPN 退出后用什么？](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative)：快连替代与迁移选择清单
+- [ChatGPT 在中国怎么用？](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china)：AI 工具可用性与常见问题排查
+- [VLESS + Reality 是什么？](https://chinavpnguide.github.io/best-china-vpn-2026/vless-reality-guide)：技术原理与普通用户测试方法
 
 ## 为什么 2026 年大批 VPN 突然不能用了
 
