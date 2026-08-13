@@ -1,6 +1,14 @@
 
 # Changelog
 
+## 2026-08-13
+
+- Refreshed the last tested date and August network observations
+- Added a YouTube late-peak buffering guide
+- Added an iOS / Android client setup guide
+- Linked the new guides from README, GitHub Pages, and existing topic pages
+- Added sitemap.xml, robots.txt, and site title / description for crawlers
+
 ## 2026-07-15
 
 - Added a dedicated LetsVPN alternative guide

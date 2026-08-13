@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chinavpnguide.github.io/best-china-vpn-2026/sitemap.xml

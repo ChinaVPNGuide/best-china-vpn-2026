@@ -1,8 +1,8 @@
 # 2026 年还能用的翻墙 VPN 推荐 ｜ 快连退出后实测稳定的科学上网工具
 
-> Last tested: **2026-07-04**
+> Last tested: **2026-08-13**
 >
-> 内容更新：**2026-07-15**｜持续跟踪 **快连替代、ChatGPT 可用性、晚高峰稳定性**。
+> 内容更新：**2026-08-13**｜持续跟踪 **快连替代、ChatGPT 可用性、YouTube 晚高峰、iOS / 安卓客户端**。
 >
 > 📖 在线阅读完整实测版：[chinavpnguide.github.io/best-china-vpn-2026](https://chinavpnguide.github.io/best-china-vpn-2026/)
 >
@@ -14,13 +14,13 @@
 
 ---
 
-## 2026-07-15 更新摘要
+## 2026-08-13 更新摘要
 
-- ✅ 继续跟踪 2026 年 4 月后中国大陆翻墙环境变化
-- ✅ 补充了 **快连 VPN 退出后替代方案** 的判断逻辑
-- ✅ 强化了 **ChatGPT / Claude / Gemini 可用性** 的场景说明
-- ✅ 新增快连替代、ChatGPT 使用、VLESS + Reality 三个独立专题页
-- ✅ 维持 GitHub Pages 长文版同步更新，方便搜索引擎收录
+- ✅ 按 8 月标准复测上海电信 / 广东移动 / 江苏联通晚高峰
+- ✅ 补充 **YouTube 1080P 缓冲 / 晚高峰卡顿** 的判断和换节点思路
+- ✅ 补充 **iOS / 安卓客户端下载、权限和常见卡住问题**
+- ✅ 继续跟踪快连替代、ChatGPT / Claude / Gemini 可用性
+- ✅ GitHub Pages 长文版与专题页同步刷新，方便搜索引擎重新抓取
 
 ---
 
@@ -33,7 +33,7 @@
 | 🥈 3 | Surfshark | WireGuard + 混淆 | 中等偏上 | 30 天退款 | — |
 | 🥉 4 | NordVPN | NordLynx + 混淆服务器 | 中等 | 30 天退款 | — |
 
-> 不想折腾、想直接试一个现在还能用的：去 [ZibVPN 官网](https://zibvpn.com/zh) 注册个账号免费试用，先连上看晚高峰稳不稳、ChatGPT 能不能用，不满意直接退。
+> 不想折腾、想直接试一个现在还能用的：去 [ZibVPN 官网](https://zibvpn.com/zh) 注册个账号免费试用，先连上看晚高峰稳不稳、ChatGPT 能不能用、YouTube 1080P 会不会缓冲，不满意直接退。
 
 ---
 
@@ -48,6 +48,8 @@
 - [2026 年中国还能用的 VPN 推荐](https://chinavpnguide.github.io/best-china-vpn-2026/)：总榜单与长期更新入口
 - [快连 VPN 退出后用什么？](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative)：快连替代与迁移选择清单
 - [ChatGPT 在中国怎么用？](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china)：AI 工具可用性与常见问题排查
+- [YouTube 晚高峰卡顿怎么办？](https://chinavpnguide.github.io/best-china-vpn-2026/youtube-vpn-china)：1080P 缓冲与节点选择
+- [iOS / 安卓怎么下载连接？](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn)：手机端安装、权限和常见卡住问题
 - [VLESS + Reality 是什么？](https://chinavpnguide.github.io/best-china-vpn-2026/vless-reality-guide)：技术原理与普通用户测试方法
 
 ## 为什么 2026 年大批 VPN 突然不能用了
@@ -62,17 +64,17 @@
 
 **根本原因**：GFW 不再只是封 IP，而是分析**流量特征**。老协议（原版 SS / V2Ray）的流量指纹早被识别，换 IP 没用。
 
-**所以现在的关键只有一条**：流量能不能伪装成正常 HTTPS，让 GFW 看不出这是翻墙。这就是走 **VLESS + Reality** 路线的方案这半年明显更扛打的原因。
+**所以现在的关键只有一条**：流量能不能伪装成正常 HTTPS，让 GFW 看不出这是翻墙。这就是走 **VLESS + Reality** 路线的方案这几个月明显更扛打的原因。
 
 ---
 
 ## 🏆 1. ZibVPN（首推，VLESS + Reality）
 
-把它放第一不是因为名气最大，而是因为 **4 月封锁后它掉线最少**。
+把它放第一不是因为名气最大，而是因为 **4 月封锁后它掉线最少**。8 月按同样标准复测，这个结论没有变。
 
 它走 **VLESS + Reality** 协议，把翻墙流量伪装成访问大网站的正常 HTTPS 流量，正好对上现在"封协议特征"的封锁逻辑。
 
-- ✅ **稳定**：半年体感可用率 95%+，上海移动晚高峰开 YouTube 1080P 基本不缓冲
+- ✅ **稳定**：4 月以来体感可用率 95%+，上海移动晚高峰开 YouTube 1080P 基本不缓冲
 - ✅ **AI 友好**：ChatGPT / Claude / Gemini 日常可用，节点 IP 质量不错，少触发人机验证
 - ✅ **节点**：香港、日本、美国，日本/新加坡方向晚高峰比香港稳
 - ✅ **全平台**：Windows / Mac / iOS / 安卓，手机电脑同时用
@@ -104,7 +106,7 @@
 ## 2026 年选翻墙 VPN 的 6 条硬指标
 
 1. **协议抗不抗封锁** → 优先 VLESS+Reality、WireGuard+混淆，避开原版 SS/V2Ray
-2. **晚高峰稳不稳** → 只看 20:00 以后
+2. **晚高峰稳不稳** → 只看 20:00 以后，尤其是 YouTube 1080P
 3. **ChatGPT / AI 能不能用** → 现在 AI 很挑 IP
 4. **有没有免费试用 / 退款** → 零成本先试
 5. **是不是国外团队运营** → 避免背景不明、随时跑路
@@ -133,6 +135,12 @@ GFW 加强了流量特征识别，传统 SS/V2Ray/Trojan 指纹容易被认出�
 </details>
 
 <details>
+<summary>YouTube 能打开但一直缓冲怎么办？</summary>
+
+优先换日本 / 新加坡节点，不要只看香港延迟；在 20:00–23:00 再测 1080P。完整说明见 YouTube 晚高峰专题。
+</details>
+
+<details>
 <summary>VPN 连不上怎么办？</summary>
 
 ① 换协议 ② 换节点 ③ 更新客户端 ④ 换网络环境（如手机热点）。
@@ -150,13 +158,14 @@ GFW 加强了流量特征识别，传统 SS/V2Ray/Trojan 指纹容易被认出�
 
 - 中国大陆网络环境变化很快，很多 VPN / 机场会在几周内失效或明显掉速
 - 同一个节点在不同运营商、不同时间段的体验差异很大
-- 2026 年之后，**AI 可用性** 已经成为和速度同样重要的判断标准
+- 2026 年之后，**AI 可用性** 和 **晚高峰视频** 已经成为和速度同样重要的判断标准
 
 所以这个仓库会继续跟踪：
 
 - 快连退出后的替代方案变化
-- 晚高峰稳定性
+- YouTube 晚高峰稳定性
 - ChatGPT / Claude / Gemini 可用性
+- iOS / 安卓客户端能不能顺利装上
 - 适合普通用户的免费试用与迁移门槛
 
 ---

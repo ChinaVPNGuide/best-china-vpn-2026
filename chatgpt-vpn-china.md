@@ -1,11 +1,12 @@
 ---
 title: "ChatGPT 在中国怎么用？2026 年网络环境与排查指南"
+description: "2026 年 8 月更新。ChatGPT 转圈、地区不可用、Cloudflare 验证的常见原因，以及节点切换和试用验证方法。"
 permalink: /chatgpt-vpn-china/
 ---
 
 # ChatGPT 在中国怎么用？2026 年网络环境与排查指南
 
-> 内容更新：2026-07-15  
+> 内容更新：2026-08-13  
 > 本文侧重解释：为什么“能打开 Google”不等于“能稳定用 ChatGPT”，以及如何排查常见问题。
 
 ## 先说结论
@@ -119,6 +120,8 @@ ZibVPN 支持 Windows、Mac、iOS、Android，并采用 VLESS + Reality 路线�
 
 - [2026 年中国还能用的 VPN 推荐](./)
 - [快连 VPN 退出后用什么？](./letsvpn-alternative)
+- [YouTube 晚高峰卡顿怎么办](./youtube-vpn-china)
+- [iOS / 安卓怎么下载和连接](./ios-android-vpn)
 - [VLESS + Reality 为什么受到关注](./vless-reality-guide)
 
 *本文仅作网络环境与工具使用经验参考，不构成任何服务可用性的承诺。请遵守所在地法律法规。*
