@@ -2,7 +2,7 @@
 
 ## 内容依据
 
-最近资料核对：2026-09-21。维护者为 ZibVPN 团队，不将自家介绍称为独立评测。
+最近资料核对：2026-09-21。维护者标示为 ChinaVPNGuide，沿用仓库指南形式，不标示为 ZibVPN 官方维护。内容含 ZibVPN 产品推广信息，不称为独立评测。
 
 - 套餐、总价、设备数、每日流量：[官方套餐页](https://zibvpn.com/zh/pricing)。
 - 1 GB 注册试用：[注册页](https://zibvpn.com/zh/register)。期限及账户权益需另核对。

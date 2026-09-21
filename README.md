@@ -1,6 +1,6 @@
 # 2026 中国 VPN 推荐与翻墙软件选购｜快连替代、ChatGPT、YouTube
 
-> 内容与官方资料核对：2026-09-21。本指南由 ZibVPN 团队维护，包含自家产品介绍；本次更新不是跨运营商连接实测，也不提供独立性能排名。
+> 内容与官方资料核对：2026-09-21。本指南由 ChinaVPNGuide 维护，包含 ZibVPN 产品推广信息；本次为资料更新，不是独立评测或跨运营商连接实测。
 
 这个仓库帮助正在选 VPN、迁移服务或安装客户端的读者，核对费用、设备支持与实际使用条件。**[查看 ZibVPN 当前套餐与退款条件](https://zibvpn.com/zh/pricing?utm_source=github&utm_medium=referral&utm_campaign=20260921_repo_refresh&utm_content=readme_top)**；完整说明见 [在线指南](https://chinavpnguide.github.io/best-china-vpn-2026/)。
 
@@ -33,7 +33,7 @@ Windows、macOS、iOS、Android 与 Linux 的分发方式不同，Linux 当前�
 
 ## 内容依据与反馈
 
-本仓库由 ZibVPN 团队维护，涉及自家产品；ExpressVPN、Surfshark、NordVPN 仅作为选购对照入口，不提供未经验证的性能名次。页面更新日期表示资料核对或内容修订，不能当作新的连接测试日期。
+本仓库由 ChinaVPNGuide 维护，包含 ZibVPN 产品推广信息；ExpressVPN、Surfshark、NordVPN 仅作为选购对照入口，不提供未经验证的性能名次。页面更新日期表示资料核对或内容修订，不能当作新的连接测试日期。
 
 - [更新记录](CHANGELOG.md)
 - [发现错链或过时资料，提交 Issue](https://github.com/ChinaVPNGuide/best-china-vpn-2026/issues)

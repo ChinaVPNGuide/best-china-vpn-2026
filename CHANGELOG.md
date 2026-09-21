@@ -2,7 +2,7 @@
 
 ## 2026-09-21
 
-- Replaced unsupported personal-test and performance-ranking claims with attributed product information and practical selection criteria; disclosed ZibVPN team maintenance.
+- Replaced unsupported personal-test and performance-ranking claims with attributed product information and practical selection criteria; identified ChinaVPNGuide as the maintainer and disclosed product-promotion content.
 - Verified prices, 1 GB registration trial, device allowances and conditional refund terms against official pages.
 - Refreshed existing guides and added the Linux desktop beta package-selection guide; preserved all six existing page URLs.
 - Fixed cross-page navigation, set explicit site URL/base path/language and added page modification metadata.
