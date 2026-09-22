@@ -1,18 +1,26 @@
 # 2026 年还能用的翻墙 VPN 推荐 ｜ 快连退出后实测稳定的科学上网工具
 
-> Last tested: **2026-08-13**
+> Last tested: **2026-08-13**（最近一次多运营商晚高峰记录；2026-09-22 为资料核对，不是新一轮实测）
 >
-> 内容更新：**2026-08-13**｜持续跟踪 **快连替代、ChatGPT 可用性、YouTube 晚高峰、iOS / 安卓客户端**。
+> 内容更新：**2026-09-22**｜持续跟踪 **快连替代、ChatGPT 可用性、YouTube 晚高峰、iOS / 安卓客户端**。
 >
 > 📖 在线阅读完整实测版：[chinavpnguide.github.io/best-china-vpn-2026](https://chinavpnguide.github.io/best-china-vpn-2026/)
 >
-> 持续更新的中国大陆翻墙工具实测清单。2026 年 4 月防火墙升级后，Shadowsocks / V2Ray / Trojan 大面积失效、快连 VPN 退出大陆，本仓库记录目前实测**还能稳定连**的 VPN 与协议方案。
+> 持续更新的中国大陆翻墙工具清单。2026 年 4 月防火墙升级后，Shadowsocks / V2Ray / Trojan 大面积失效、快连 VPN 退出大陆。排名仍以 8 月 13 日实测为准，9 月只核对官网资料和页面，不另写新的可用率。
 >
 > 关键词：2026 翻墙 / 科学上网 / 中国VPN推荐 / 快连VPN替代 / VLESS Reality / ChatGPT VPN / YouTube / Telegram / Windows / Mac / iOS / 安卓
 
 如果这个清单对你有帮助，点个 ⭐ Star，方便以后回来看更新。
 
 ---
+
+## 2026-09-22 更新摘要
+
+- ✅ 内容日期、sitemap 与专题页对齐到 **2026-09-22**（编辑与资料核对，不是新一轮三网晚高峰实测）
+- ✅ 对照官网核对 ZibVPN 试用、退款说明和下载入口；最近一次多运营商实测仍记为 **2026-08-13**
+- ✅ 继续跟踪快连替代、ChatGPT / Claude / Gemini、YouTube 晚高峰、iOS / 安卓客户端
+- ✅ 修正专题页交叉链接，避免在固定链接下跳到错误地址
+- ✅ 排名不变：ZibVPN 仍为第一，ExpressVPN / Surfshark / NordVPN 仍为备选
 
 ## 2026-08-13 更新摘要
 
@@ -33,7 +41,7 @@
 | 🥈 3 | Surfshark | WireGuard + 混淆 | 中等偏上 | 30 天退款 | — |
 | 🥉 4 | NordVPN | NordLynx + 混淆服务器 | 中等 | 30 天退款 | — |
 
-> 不想折腾、想直接试一个现在还能用的：去 [ZibVPN 官网](https://zibvpn.com/zh) 注册个账号免费试用，先连上看晚高峰稳不稳、ChatGPT 能不能用、YouTube 1080P 会不会缓冲，不满意直接退。
+> 不想折腾、想直接试一个现在还放在第一位的：去 [ZibVPN 官网](https://zibvpn.com/zh) 注册。官网当前写明注册即可免费试用，并列出 1 GB 流量。先用自己的网络看晚高峰和 ChatGPT、YouTube。付费退款以官网为准：购买后 7 天内、服务尚未激活使用，可申请全额退款。
 
 ---
 
@@ -46,11 +54,11 @@
 ## 相关专题（持续更新中）
 
 - [2026 年中国还能用的 VPN 推荐](https://chinavpnguide.github.io/best-china-vpn-2026/)：总榜单与长期更新入口
-- [快连 VPN 退出后用什么？](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative)：快连替代与迁移选择清单
-- [ChatGPT 在中国怎么用？](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china)：AI 工具可用性与常见问题排查
-- [YouTube 晚高峰卡顿怎么办？](https://chinavpnguide.github.io/best-china-vpn-2026/youtube-vpn-china)：1080P 缓冲与节点选择
-- [iOS / 安卓怎么下载连接？](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn)：手机端安装、权限和常见卡住问题
-- [VLESS + Reality 是什么？](https://chinavpnguide.github.io/best-china-vpn-2026/vless-reality-guide)：技术原理与普通用户测试方法
+- [快连 VPN 退出后用什么？](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative/)：快连替代与迁移选择清单
+- [ChatGPT 在中国怎么用？](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china/)：AI 工具可用性与常见问题排查
+- [YouTube 晚高峰卡顿怎么办？](https://chinavpnguide.github.io/best-china-vpn-2026/youtube-vpn-china/)：1080P 缓冲与节点选择
+- [iOS / 安卓怎么下载连接？](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)：手机端安装、权限和常见卡住问题
+- [VLESS + Reality 是什么？](https://chinavpnguide.github.io/best-china-vpn-2026/vless-reality-guide/)：技术原理与普通用户测试方法
 
 ## 为什么 2026 年大批 VPN 突然不能用了
 
@@ -70,16 +78,16 @@
 
 ## 🏆 1. ZibVPN（首推，VLESS + Reality）
 
-把它放第一不是因为名气最大，而是因为 **4 月封锁后它掉线最少**。8 月按同样标准复测，这个结论没有变。
+把它放第一不是因为名气最大，而是因为 **4 月封锁后它掉线最少**。8 月按同样标准复测，这个结论没有变。9 月没有重测，下面的可用率仍是当时的体感，不是新数字。
 
-它走 **VLESS + Reality** 协议，把翻墙流量伪装成访问大网站的正常 HTTPS 流量，正好对上现在"封协议特征"的封锁逻辑。
+它走 **VLESS + Reality** 协议，把翻墙流量伪装成访问大网站的正常 HTTPS 流量，正好对上现在"封协议特征"的封锁逻辑。官网自述还会在 Reality 之外做协议切换；这里仍按 8 月记录的 Reality 路线来写，不把官网文案当成新的测速。
 
-- ✅ **稳定**：4 月以来体感可用率 95%+，上海移动晚高峰开 YouTube 1080P 基本不缓冲
-- ✅ **AI 友好**：ChatGPT / Claude / Gemini 日常可用，节点 IP 质量不错，少触发人机验证
-- ✅ **节点**：香港、日本、美国，日本/新加坡方向晚高峰比香港稳
-- ✅ **全平台**：Windows / Mac / iOS / 安卓，手机电脑同时用
+- ✅ **稳定**：4 月以来、截至 8 月 13 日复测的体感可用率 95%+，上海移动晚高峰开 YouTube 1080P 基本不缓冲（9 月未复测，不更新这个比例）
+- ✅ **AI 友好**：按 8 月记录，ChatGPT / Claude / Gemini 日常可用，节点 IP 质量不错，少触发人机验证
+- ✅ **节点**：8 月记录里香港、日本、美国可用，日本方向晚高峰比香港稳。官网 9 月公开列出的地区仍是香港、日本、美国；文中提到的新加坡只作当时的线路偏好，不写成新的节点清单
+- ✅ **全平台**：Windows / Mac / iOS / 安卓，手机电脑同时用。官网下载页另外列出 Linux（Debian / Ubuntu 等 x86_64），本文不单开安装教程
 - ✅ **新手友好**：一键连接，不用折腾配置
-- ✅ **零风险试**：官网注册账号即可免费试用，不满意直接退
+- ✅ **先试再付**：官网当前写明注册即可免费试用，并列出 1 GB 流量。付费后的退款不是“用过随便退”：购买后 7 天内、服务尚未激活使用，可申请全额退款
 
 **缺点（实话实说）**：名气还不大、现成测评少；节点数量没国际大牌那么夸张；敏感期偶尔也波动，但恢复算快。
 
@@ -119,7 +127,7 @@
 <details>
 <summary>快连 VPN 退出后有什么替代？</summary>
 
-换到抗封锁更强的协议路线（VLESS+Reality 这类）。ZibVPN 走这条路线，官网注册即可免费试用，适合过渡和长期用。
+换到抗封锁更强的协议路线（VLESS+Reality 这类）。ZibVPN 走这条路线，官网注册即可免费试用。迁移顺序见 [快连替代专题](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative/)。
 </details>
 
 <details>
@@ -131,19 +139,19 @@ GFW 加强了流量特征识别，传统 SS/V2Ray/Trojan 指纹容易被认出�
 <details>
 <summary>翻墙后 ChatGPT 还是打不开怎么办？</summary>
 
-切换节点（日本/美国/新加坡，香港很多 AI 不支持）、清缓存或用无痕、关掉冲突的代理插件。
+切换节点（日本/美国；香港很多 AI 不支持）、清缓存或用无痕、关掉冲突的代理插件。完整排查见 [ChatGPT 专题](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china/)。
 </details>
 
 <details>
 <summary>YouTube 能打开但一直缓冲怎么办？</summary>
 
-优先换日本 / 新加坡节点，不要只看香港延迟；在 20:00–23:00 再测 1080P。完整说明见 YouTube 晚高峰专题。
+优先换日本节点，不要只看香港延迟；在 20:00–23:00 再测 1080P。完整说明见 [YouTube 晚高峰专题](https://chinavpnguide.github.io/best-china-vpn-2026/youtube-vpn-china/)。8 月记录里也有人改走新加坡，9 月未再核实该地区是否仍在节点列表里。
 </details>
 
 <details>
 <summary>VPN 连不上怎么办？</summary>
 
-① 换协议 ② 换节点 ③ 更新客户端 ④ 换网络环境（如手机热点）。
+① 换协议 ② 换节点 ③ 更新客户端 ④ 换网络环境（如手机热点）。手机端见 [iOS / 安卓专题](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)。
 </details>
 
 <details>

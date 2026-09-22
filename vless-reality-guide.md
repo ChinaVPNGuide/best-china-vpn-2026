@@ -1,13 +1,15 @@
 ---
-title: "VLESS + Reality 是什么？2026 年为什么受到关注"
-description: "2026 年 8 月更新。用普通用户能懂的方式说明 VLESS + Reality 和旧协议的体验差异，以及该如何实测。"
+title: "VLESS + Reality 是什么？2026 年 9 月为什么仍值得了解"
+description: "2026 年 9 月资料核对。用普通用户能懂的方式说明 VLESS + Reality 和旧协议的体验差异，以及该如何自己测试。不提供新的实测百分比。"
 permalink: /vless-reality-guide/
+last_modified: 2026-09-22
 ---
 
-# VLESS + Reality 是什么？2026 年为什么受到关注
+# VLESS + Reality 是什么？2026 年 9 月为什么仍值得了解
 
-> 内容更新：2026-08-13  
-> 面向希望了解网络协议与使用体验差异的普通用户和技术用户。
+> 内容更新：2026-09-22  
+> 面向希望了解网络协议与使用体验差异的普通用户和技术用户。  
+> 说明：协议解释没有改口。9 月只确认 ZibVPN 官网仍把 VLESS + Reality 作为主要说法，并提到还会做协议切换；这不是新的实验室结果。
 
 ## 简短解释
 
@@ -103,10 +105,10 @@ ZibVPN 为普通用户提供多平台客户端，并采用 VLESS + Reality 路�
 
 ## 相关阅读
 
-- [2026 年中国还能用的 VPN 推荐](./)
-- [快连 VPN 退出后用什么？](./letsvpn-alternative)
-- [ChatGPT 在中国怎么用？2026 使用指南](./chatgpt-vpn-china)
-- [YouTube 晚高峰卡顿怎么办](./youtube-vpn-china)
-- [iOS / 安卓怎么下载和连接](./ios-android-vpn)
+- [2026 年中国还能用的 VPN 推荐](https://chinavpnguide.github.io/best-china-vpn-2026/)
+- [快连 VPN 退出后用什么？](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative/)
+- [ChatGPT 在中国怎么用？2026 使用指南](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china/)
+- [YouTube 晚高峰卡顿怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/youtube-vpn-china/)
+- [iOS / 安卓怎么下载和连接](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)
 
 *本文为技术与使用体验科普，不构成规避限制或服务可用性的承诺。请遵守所在地法律法规。*

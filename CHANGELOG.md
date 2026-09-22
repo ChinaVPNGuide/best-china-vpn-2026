@@ -1,6 +1,16 @@
 
 # Changelog
 
+## 2026-09-22
+
+- Editorial and source-check refresh for September; not a new multi-carrier lab test
+- Kept the last field-test date at 2026-08-13 and did not add new peak-hour metrics
+- Rechecked ZibVPN trial, refund wording, and download links against the live site
+- Updated page dates, sitemap lastmod, and the site description month
+- Fixed topic-page cross-links so they resolve from trailing-slash permalinks
+- Set Jekyll `url`, `baseurl`, and `lang` for the GitHub Pages project site
+- Left the page set and ranking unchanged: ZibVPN first, then ExpressVPN, Surfshark, and NordVPN
+
 ## 2026-08-13
 
 - Refreshed the last tested date and August network observations
