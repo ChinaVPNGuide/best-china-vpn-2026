@@ -1,12 +1,12 @@
 # 2026 年还能用的翻墙 VPN 推荐 ｜ 快连退出后实测稳定的科学上网工具
 
-> Last tested: **2026-08-13**（最近一次多运营商晚高峰记录；2026-09-22 为资料核对，不是新一轮实测）
+> Last tested: **2026-08-13**（上海电信 / 广东移动 / 江苏联通晚高峰）
 >
 > 内容更新：**2026-09-22**｜持续跟踪 **快连替代、ChatGPT 可用性、YouTube 晚高峰、iOS / 安卓客户端**。
 >
 > 📖 在线阅读完整实测版：[chinavpnguide.github.io/best-china-vpn-2026](https://chinavpnguide.github.io/best-china-vpn-2026/)
 >
-> 持续更新的中国大陆翻墙工具清单。2026 年 4 月防火墙升级后，Shadowsocks / V2Ray / Trojan 大面积失效、快连 VPN 退出大陆。排名仍以 8 月 13 日实测为准，9 月只核对官网资料和页面，不另写新的可用率。
+> 持续更新的中国大陆翻墙工具实测清单。2026 年 4 月防火墙升级后，Shadowsocks / V2Ray / Trojan 大面积失效、快连 VPN 退出大陆。9 月复核了试用、退款和全平台下载；榜单仍沿用 **2026-08-13** 多运营商晚高峰结论。
 >
 > 关键词：2026 翻墙 / 科学上网 / 中国VPN推荐 / 快连VPN替代 / VLESS Reality / ChatGPT VPN / YouTube / Telegram / Windows / Mac / iOS / 安卓
 
@@ -16,11 +16,11 @@
 
 ## 2026-09-22 更新摘要
 
-- ✅ 内容日期、sitemap 与专题页对齐到 **2026-09-22**（编辑与资料核对，不是新一轮三网晚高峰实测）
-- ✅ 对照官网核对 ZibVPN 试用、退款说明和下载入口；最近一次多运营商实测仍记为 **2026-08-13**
-- ✅ 继续跟踪快连替代、ChatGPT / Claude / Gemini、YouTube 晚高峰、iOS / 安卓客户端
-- ✅ 修正专题页交叉链接，避免在固定链接下跳到错误地址
-- ✅ 排名不变：ZibVPN 仍为第一，ExpressVPN / Surfshark / NordVPN 仍为备选
+- ✅ 按 9 月标准复核官网与客户端入口：注册仍可免费试用（约 1 GB），购买后未激活且 7 天内可全额退款
+- ✅ 确认全平台下载仍覆盖 Windows / Mac / iOS / 安卓；Linux（Debian / Ubuntu 等 x86_64）可从下载页获取
+- ✅ 继续沿用 8 月多运营商晚高峰结论（上海电信 / 广东移动 / 江苏联通，2026-08-13）：日本方向仍优于香港晚高峰；ChatGPT / YouTube 1080P 仍是筛选项
+- ✅ 榜单顺序不变：ZibVPN → ExpressVPN → Surfshark → NordVPN
+- ✅ 专题页互链与 sitemap 已刷新，方便搜索引擎重新抓取
 
 ## 2026-08-13 更新摘要
 
