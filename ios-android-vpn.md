@@ -1,13 +1,15 @@
 ---
-title: "iOS / 安卓怎么用 VPN？2026 年手机端下载、权限和常见卡住问题"
-description: "2026 年 8 月更新。iOS 和安卓下载 VPN 客户端、授权、系统代理冲突，以及手机能连但电脑不行时的排查顺序。"
+title: "iOS / 安卓怎么用 VPN？2026 年 9 月手机端下载、权限和常见卡住问题"
+description: "2026 年 9 月更新。iOS 和安卓下载 VPN 客户端、授权、系统代理冲突，以及手机能连但电脑不行时的排查顺序。下载入口已按 9 月复核。"
 permalink: /ios-android-vpn/
+last_modified: 2026-09-22
 ---
 
-# iOS / 安卓怎么用 VPN？2026 年手机端下载、权限和常见卡住问题
+# iOS / 安卓怎么用 VPN？2026 年 9 月手机端下载、权限和常见卡住问题
 
-> 内容更新：2026-08-13  
-> 适用场景：电脑已经能连，手机装不上、连不上，或 iOS / 安卓能连但 ChatGPT、YouTube 仍然打不开。
+> 内容更新：2026-09-22  
+> 适用场景：电脑已经能连，手机装不上、连不上，或 iOS / 安卓能连但 ChatGPT、YouTube 仍然打不开。  
+> 9 月确认下载页仍覆盖 iOS / 安卓。手机端判断沿用 2026-08-13 记录。
 
 ## 先说结论
 
@@ -42,13 +44,20 @@ permalink: /ios-android-vpn/
 
 下载入口：[zibvpn.com/zh/download](https://zibvpn.com/zh/download)
 
+2026-09-22 核对时，该下载页还挂着官方商店链接，而不是第三方安装包：
+
+- iOS：[App Store 上的 ZibVPN](https://apps.apple.com/us/app/zibvpn/id6761404908)
+- Android：[Google Play 上的 ZibVPN](https://play.google.com/store/apps/details?id=com.zibvpn.app)
+
+同一页也列出 Linux（文案写 Debian、Ubuntu 及其他 x86_64 发行版）。这里不写 Linux 安装步骤，避免把没核对过的命令当成教程。
+
 ### 2. iOS 和安卓的授权方式不同
 
 iOS 通常会要求添加 VPN 配置，并在系统设置里允许连接。安卓则可能涉及 VPN 权限、通知权限、电池优化和后台运行限制。授权没完成时，App 显示「已连接」，流量其实还没走过去。
 
 ### 3. 不要同时开两个网络工具
 
-手机上同时开系统代理、旧机场 App、浏览器插件式工具，是 8 月仍然很常见的失败原因。保留一个明确的客户端即可。
+手机上同时开系统代理、旧机场 App、浏览器插件式工具，到 9 月仍然是常见失败原因。保留一个明确的客户端即可。
 
 ---
 
