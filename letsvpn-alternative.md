@@ -108,10 +108,12 @@ AI 服务对节点 IP、地区和反滥用机制更敏感。遇到问题时，�
 
 ## 相关阅读
 
-- [2026 年中国还能用的 VPN 推荐](./)
-- [ChatGPT 在中国怎么用？2026 使用指南](./chatgpt-vpn-china)
-- [YouTube 晚高峰卡顿怎么办](./youtube-vpn-china)
-- [iOS / 安卓怎么下载和连接](./ios-android-vpn)
-- [VLESS + Reality 为什么受到关注](./vless-reality-guide)
+- [2026 年中国还能用的 VPN 推荐](https://chinavpnguide.github.io/best-china-vpn-2026/)
+- [一键 VPN 和机场有什么区别？](https://chinavpnguide.github.io/best-china-vpn-2026/vpn-vs-airport/)
+- [ChatGPT 在中国怎么用？2026 使用指南](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china/)
+- [YouTube 晚高峰卡顿怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/youtube-vpn-china/)
+- [VPN 连不上怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/vpn-not-connecting-china/)
+- [iOS / 安卓怎么下载和连接](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)
+- [VLESS + Reality 为什么受到关注](https://chinavpnguide.github.io/best-china-vpn-2026/vless-reality-guide/)
 
 *本文仅作网络工具选择与使用体验参考。请遵守所在地法律法规，并在合法范围内使用网络服务。*

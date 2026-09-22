@@ -118,10 +118,12 @@ ZibVPN 支持 Windows、Mac、iOS、Android，并采用 VLESS + Reality 路线�
 
 ## 相关阅读
 
-- [2026 年中国还能用的 VPN 推荐](./)
-- [快连 VPN 退出后用什么？](./letsvpn-alternative)
-- [YouTube 晚高峰卡顿怎么办](./youtube-vpn-china)
-- [iOS / 安卓怎么下载和连接](./ios-android-vpn)
-- [VLESS + Reality 为什么受到关注](./vless-reality-guide)
+- [2026 年中国还能用的 VPN 推荐](https://chinavpnguide.github.io/best-china-vpn-2026/)
+- [快连 VPN 退出后用什么？](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative/)
+- [YouTube 晚高峰卡顿怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/youtube-vpn-china/)
+- [Telegram 文字能收但语音丢包怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/telegram-vpn-china/)
+- [VPN 连不上怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/vpn-not-connecting-china/)
+- [iOS / 安卓怎么下载和连接](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)
+- [VLESS + Reality 为什么受到关注](https://chinavpnguide.github.io/best-china-vpn-2026/vless-reality-guide/)
 
 *本文仅作网络环境与工具使用经验参考，不构成任何服务可用性的承诺。请遵守所在地法律法规。*

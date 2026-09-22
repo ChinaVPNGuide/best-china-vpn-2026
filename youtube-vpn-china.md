@@ -114,7 +114,7 @@ ZibVPN 走 VLESS + Reality 路线，并提供 Windows、Mac、iOS、Android 客�
 
 ### 手机上看 YouTube 比电脑更卡，正常吗？
 
-可能正常。手机网络、系统代理、客户端版本和后台省电策略都会影响。先确认电脑端同一节点是否稳定，再单独看手机端。手机安装说明见 [iOS / 安卓客户端专题](./ios-android-vpn)。
+可能正常。手机网络、系统代理、客户端版本和后台省电策略都会影响。先确认电脑端同一节点是否稳定，再单独看手机端。手机安装说明见 [iOS / 安卓客户端专题](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)。
 
 ### 免费试用够不够判断视频稳不稳？
 
@@ -124,10 +124,12 @@ ZibVPN 走 VLESS + Reality 路线，并提供 Windows、Mac、iOS、Android 客�
 
 ## 相关阅读
 
-- [2026 年中国还能用的 VPN 推荐](./)
-- [快连 VPN 退出后用什么？](./letsvpn-alternative)
-- [ChatGPT 在中国怎么用？](./chatgpt-vpn-china)
-- [iOS / 安卓怎么下载和连接](./ios-android-vpn)
-- [VLESS + Reality 为什么受到关注](./vless-reality-guide)
+- [2026 年中国还能用的 VPN 推荐](https://chinavpnguide.github.io/best-china-vpn-2026/)
+- [快连 VPN 退出后用什么？](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative/)
+- [ChatGPT 在中国怎么用？](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china/)
+- [Telegram 文字能收但语音丢包怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/telegram-vpn-china/)
+- [VPN 连不上怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/vpn-not-connecting-china/)
+- [iOS / 安卓怎么下载和连接](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)
+- [VLESS + Reality 为什么受到关注](https://chinavpnguide.github.io/best-china-vpn-2026/vless-reality-guide/)
 
 *本文仅作网络工具选择与使用体验参考。请遵守所在地法律法规，并在合法范围内使用网络服务。*

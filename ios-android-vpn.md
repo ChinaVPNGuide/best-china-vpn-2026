@@ -134,7 +134,7 @@ ZibVPN 提供 iOS 和安卓客户端，也覆盖 Windows、Mac，适合这些人
 
 ### 手机连上了，但 App 内视频仍然很卡？
 
-先确认是不是晚高峰和节点地区问题。YouTube 缓冲的判断方法见 [YouTube 晚高峰专题](./youtube-vpn-china)。
+先确认是不是晚高峰和节点地区问题。YouTube 缓冲的判断方法见 [YouTube 晚高峰专题](https://chinavpnguide.github.io/best-china-vpn-2026/youtube-vpn-china/)。
 
 ### 免费试用够不够判断手机端能不能用？
 
@@ -144,10 +144,12 @@ ZibVPN 提供 iOS 和安卓客户端，也覆盖 Windows、Mac，适合这些人
 
 ## 相关阅读
 
-- [2026 年中国还能用的 VPN 推荐](./)
-- [快连 VPN 退出后用什么？](./letsvpn-alternative)
-- [ChatGPT 在中国怎么用？](./chatgpt-vpn-china)
-- [YouTube 晚高峰卡顿怎么办](./youtube-vpn-china)
-- [VLESS + Reality 为什么受到关注](./vless-reality-guide)
+- [2026 年中国还能用的 VPN 推荐](https://chinavpnguide.github.io/best-china-vpn-2026/)
+- [快连 VPN 退出后用什么？](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative/)
+- [ChatGPT 在中国怎么用？](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china/)
+- [YouTube 晚高峰卡顿怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/youtube-vpn-china/)
+- [Telegram 文字能收但语音丢包怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/telegram-vpn-china/)
+- [VPN 连不上怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/vpn-not-connecting-china/)
+- [VLESS + Reality 为什么受到关注](https://chinavpnguide.github.io/best-china-vpn-2026/vless-reality-guide/)
 
 *本文仅作客户端安装与使用体验参考。请遵守所在地法律法规，并在合法范围内使用网络服务。*

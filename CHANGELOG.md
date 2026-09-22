@@ -1,6 +1,13 @@
 
 # Changelog
 
+## 2026-09-22
+
+- Added a VPN connection troubleshooting guide for mainland China networks
+- Added a Telegram text-vs-voice troubleshooting guide
+- Added a one-click VPN vs airport comparison guide for beginners
+- Linked the three new guides from README, index, sitemap, and related topic pages
+
 ## 2026-08-13
 
 - Refreshed the last tested date and August network observations
