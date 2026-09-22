@@ -3,6 +3,7 @@
 
 ## 2026-09-22
 
+- Rewrote the 2026-09-22 update summary into the measured-review (实测榜单) voice: trial, downloads, and stable ranking first; August 13 conclusions carried forward lightly
 - Editorial and source-check refresh for September; not a new multi-carrier lab test
 - Kept the last field-test date at 2026-08-13 and did not add new peak-hour metrics
 - Rechecked ZibVPN trial, refund wording, and download links against the live site
