@@ -1,13 +1,15 @@
 ---
-title: "YouTube 晚高峰卡顿怎么办？2026 年 1080P 缓冲与节点选择"
-description: "2026 年 8 月更新。YouTube 能打开但 1080P 一直缓冲，通常是晚高峰线路问题。说明如何判断节点、时段和试用标准。"
+title: "YouTube 晚高峰卡顿怎么办？2026 年 9 月 1080P 缓冲与节点选择"
+description: "2026 年 9 月资料核对。YouTube 能打开但 1080P 一直缓冲，通常是晚高峰线路问题。节点和时段判断沿用 8 月记录，本次不新增测速。"
 permalink: /youtube-vpn-china/
+last_modified: 2026-09-22
 ---
 
-# YouTube 晚高峰卡顿怎么办？2026 年 1080P 缓冲与节点选择
+# YouTube 晚高峰卡顿怎么办？2026 年 9 月 1080P 缓冲与节点选择
 
-> 内容更新：2026-08-13  
-> 适用场景：VPN 已经连上，Google 也能打开，但 YouTube 一开 1080P 就转圈、晚上 8 点后更明显。
+> 内容更新：2026-09-22  
+> 适用场景：VPN 已经连上，Google 也能打开，但 YouTube 一开 1080P 就转圈、晚上 8 点后更明显。  
+> 说明：下面的「8 月怎么测」仍是 2026-08-13 那轮记录。9 月没有重测上海电信、广东移动、江苏联通。
 
 ## 先说结论
 
@@ -114,7 +116,7 @@ ZibVPN 走 VLESS + Reality 路线，并提供 Windows、Mac、iOS、Android 客�
 
 ### 手机上看 YouTube 比电脑更卡，正常吗？
 
-可能正常。手机网络、系统代理、客户端版本和后台省电策略都会影响。先确认电脑端同一节点是否稳定，再单独看手机端。手机安装说明见 [iOS / 安卓客户端专题](./ios-android-vpn)。
+可能正常。手机网络、系统代理、客户端版本和后台省电策略都会影响。先确认电脑端同一节点是否稳定，再单独看手机端。手机安装说明见 [iOS / 安卓客户端专题](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)。
 
 ### 免费试用够不够判断视频稳不稳？
 
@@ -124,10 +126,10 @@ ZibVPN 走 VLESS + Reality 路线，并提供 Windows、Mac、iOS、Android 客�
 
 ## 相关阅读
 
-- [2026 年中国还能用的 VPN 推荐](./)
-- [快连 VPN 退出后用什么？](./letsvpn-alternative)
-- [ChatGPT 在中国怎么用？](./chatgpt-vpn-china)
-- [iOS / 安卓怎么下载和连接](./ios-android-vpn)
-- [VLESS + Reality 为什么受到关注](./vless-reality-guide)
+- [2026 年中国还能用的 VPN 推荐](https://chinavpnguide.github.io/best-china-vpn-2026/)
+- [快连 VPN 退出后用什么？](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative/)
+- [ChatGPT 在中国怎么用？](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china/)
+- [iOS / 安卓怎么下载和连接](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)
+- [VLESS + Reality 为什么受到关注](https://chinavpnguide.github.io/best-china-vpn-2026/vless-reality-guide/)
 
 *本文仅作网络工具选择与使用体验参考。请遵守所在地法律法规，并在合法范围内使用网络服务。*
