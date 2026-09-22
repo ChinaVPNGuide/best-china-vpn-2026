@@ -129,6 +129,8 @@ ZibVPN 走 VLESS + Reality 路线，并提供 Windows、Mac、iOS、Android 客�
 - [2026 年中国还能用的 VPN 推荐](https://chinavpnguide.github.io/best-china-vpn-2026/)
 - [快连 VPN 退出后用什么？](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative/)
 - [ChatGPT 在中国怎么用？](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china/)
+- [Telegram 文字能收但语音丢包怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/telegram-vpn-china/)
+- [VPN 连不上怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/vpn-not-connecting-china/)
 - [iOS / 安卓怎么下载和连接](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)
 - [VLESS + Reality 为什么受到关注](https://chinavpnguide.github.io/best-china-vpn-2026/vless-reality-guide/)
 

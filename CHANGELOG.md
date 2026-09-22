@@ -3,6 +3,10 @@
 
 ## 2026-09-22
 
+- Added a VPN connection troubleshooting guide for mainland China networks
+- Added a Telegram text-vs-voice troubleshooting guide
+- Added a one-click VPN vs airport comparison guide for beginners
+- Linked the three new guides from README, index, sitemap, and related topic pages
 - Rewrote the 2026-09-22 update summary into the measured-review (实测榜单) voice: trial, downloads, and stable ranking first; August 13 conclusions carried forward lightly
 - Editorial and source-check refresh for September; not a new multi-carrier lab test
 - Kept the last field-test date at 2026-08-13 and did not add new peak-hour metrics
@@ -10,7 +14,7 @@
 - Updated page dates, sitemap lastmod, and the site description month
 - Fixed topic-page cross-links so they resolve from trailing-slash permalinks
 - Set Jekyll `url`, `baseurl`, and `lang` for the GitHub Pages project site
-- Left the page set and ranking unchanged: ZibVPN first, then ExpressVPN, Surfshark, and NordVPN
+- Ranking unchanged: ZibVPN first, then ExpressVPN, Surfshark, and NordVPN
 
 ## 2026-08-13
 

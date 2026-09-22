@@ -157,6 +157,8 @@ ZibVPN 提供 iOS 和安卓客户端，也覆盖 Windows、Mac，适合这些人
 - [快连 VPN 退出后用什么？](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative/)
 - [ChatGPT 在中国怎么用？](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china/)
 - [YouTube 晚高峰卡顿怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/youtube-vpn-china/)
+- [Telegram 文字能收但语音丢包怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/telegram-vpn-china/)
+- [VPN 连不上怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/vpn-not-connecting-china/)
 - [VLESS + Reality 为什么受到关注](https://chinavpnguide.github.io/best-china-vpn-2026/vless-reality-guide/)
 
 *本文仅作客户端安装与使用体验参考。请遵守所在地法律法规，并在合法范围内使用网络服务。*

@@ -2,7 +2,7 @@
 
 > Last tested: **2026-08-13**（上海电信 / 广东移动 / 江苏联通晚高峰）
 >
-> 内容更新：**2026-09-22**｜持续跟踪 **快连替代、ChatGPT 可用性、YouTube 晚高峰、iOS / 安卓客户端**。
+> 内容更新：**2026-09-22**｜持续跟踪 **快连替代、ChatGPT / YouTube / Telegram、连不上排查、一键 VPN 与机场对比、iOS / 安卓客户端**。
 >
 > 📖 在线阅读完整实测版：[chinavpnguide.github.io/best-china-vpn-2026](https://chinavpnguide.github.io/best-china-vpn-2026/)
 >
@@ -16,6 +16,9 @@
 
 ## 2026-09-22 更新摘要
 
+- ✅ 新增 **VPN 连不上排查**（换网络 / 节点 / 协议顺序）
+- ✅ 新增 **Telegram 文字能收但语音丢包** 排障
+- ✅ 新增 **一键 VPN vs 机场** 选型与年付避坑
 - ✅ 按 9 月标准复核官网与客户端入口：注册仍可免费试用（约 1 GB），购买后未激活且 7 天内可全额退款
 - ✅ 确认全平台下载仍覆盖 Windows / Mac / iOS / 安卓；Linux（Debian / Ubuntu 等 x86_64）可从下载页获取
 - ✅ 继续沿用 8 月多运营商晚高峰结论（上海电信 / 广东移动 / 江苏联通，2026-08-13）：日本方向仍优于香港晚高峰；ChatGPT / YouTube 1080P 仍是筛选项
@@ -57,6 +60,9 @@
 - [快连 VPN 退出后用什么？](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative/)：快连替代与迁移选择清单
 - [ChatGPT 在中国怎么用？](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china/)：AI 工具可用性与常见问题排查
 - [YouTube 晚高峰卡顿怎么办？](https://chinavpnguide.github.io/best-china-vpn-2026/youtube-vpn-china/)：1080P 缓冲与节点选择
+- [Telegram 文字能收但语音丢包？](https://chinavpnguide.github.io/best-china-vpn-2026/telegram-vpn-china/)：连接转圈与语音/视频排障
+- [VPN 连不上怎么办？](https://chinavpnguide.github.io/best-china-vpn-2026/vpn-not-connecting-china/)：换网络 / 节点 / 协议的排查顺序
+- [一键 VPN 和机场有什么区别？](https://chinavpnguide.github.io/best-china-vpn-2026/vpn-vs-airport/)：小白选型与年付跑路避坑
 - [iOS / 安卓怎么下载连接？](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)：手机端安装、权限和常见卡住问题
 - [VLESS + Reality 是什么？](https://chinavpnguide.github.io/best-china-vpn-2026/vless-reality-guide/)：技术原理与普通用户测试方法
 
@@ -151,7 +157,19 @@ GFW 加强了流量特征识别，传统 SS/V2Ray/Trojan 指纹容易被认出�
 <details>
 <summary>VPN 连不上怎么办？</summary>
 
-① 换协议 ② 换节点 ③ 更新客户端 ④ 换网络环境（如手机热点）。手机端见 [iOS / 安卓专题](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)。
+按顺序：更新客户端 → 换 Wi‑Fi / 流量 → 换节点 → 换协议 → 查账号流量。完整步骤见 [连不上排查专题](https://chinavpnguide.github.io/best-china-vpn-2026/vpn-not-connecting-china/)。手机端见 [iOS / 安卓专题](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)。
+</details>
+
+<details>
+<summary>Telegram 文字正常但语音很差怎么办？</summary>
+
+先强制退出 Telegram，换更近节点，并避免系统 VPN 与内置 MTProto 叠用。详见 [Telegram 专题](https://chinavpnguide.github.io/best-china-vpn-2026/telegram-vpn-china/)。
+</details>
+
+<details>
+<summary>一键 VPN 和机场怎么选？</summary>
+
+怕折腾、想先试用再决定，优先一键客户端；会自己维护订阅和规则，机场更灵活。对比见 [一键 VPN vs 机场](https://chinavpnguide.github.io/best-china-vpn-2026/vpn-vs-airport/)。
 </details>
 
 <details>

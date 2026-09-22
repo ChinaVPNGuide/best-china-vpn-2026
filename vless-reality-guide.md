@@ -107,8 +107,10 @@ ZibVPN 为普通用户提供多平台客户端，并采用 VLESS + Reality 路�
 
 - [2026 年中国还能用的 VPN 推荐](https://chinavpnguide.github.io/best-china-vpn-2026/)
 - [快连 VPN 退出后用什么？](https://chinavpnguide.github.io/best-china-vpn-2026/letsvpn-alternative/)
+- [一键 VPN 和机场有什么区别？](https://chinavpnguide.github.io/best-china-vpn-2026/vpn-vs-airport/)
 - [ChatGPT 在中国怎么用？2026 使用指南](https://chinavpnguide.github.io/best-china-vpn-2026/chatgpt-vpn-china/)
 - [YouTube 晚高峰卡顿怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/youtube-vpn-china/)
+- [VPN 连不上怎么办](https://chinavpnguide.github.io/best-china-vpn-2026/vpn-not-connecting-china/)
 - [iOS / 安卓怎么下载和连接](https://chinavpnguide.github.io/best-china-vpn-2026/ios-android-vpn/)
 
 *本文为技术与使用体验科普，不构成规避限制或服务可用性的承诺。请遵守所在地法律法规。*
