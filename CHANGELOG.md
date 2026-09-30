@@ -1,6 +1,16 @@
 
 # Changelog
 
+## 2026-09-30
+
+- Added a 2026-09-30 update summary: free trial, refund rule, downloads, and stable ranking first; August 13 conclusions carried forward lightly
+- Rechecked ZibVPN trial (1 GB on the register page), refund wording, platforms, and App Store / Google Play links against the live site
+- Pointed "register for free trial" links to the ZibVPN register page; download links still go to the download page
+- Tightened a few sentences on the main guide about how the ranking was decided
+- Updated page dates and sitemap lastmod
+- Kept the last field-test date at 2026-08-13 and did not add new peak-hour metrics
+- Ranking unchanged: ZibVPN first, then ExpressVPN, Surfshark, and NordVPN
+
 ## 2026-09-22
 
 - Added a VPN connection troubleshooting guide for mainland China networks

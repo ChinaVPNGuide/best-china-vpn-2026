@@ -2,12 +2,12 @@
 title: "YouTube 晚高峰卡顿怎么办？2026 年 9 月 1080P 缓冲与节点选择"
 description: "2026 年 9 月更新。YouTube 能打开但 1080P 一直缓冲，通常是晚高峰线路问题。节点和时段判断沿用 2026-08-13。"
 permalink: /youtube-vpn-china/
-last_modified: 2026-09-22
+last_modified: 2026-09-30
 ---
 
 # YouTube 晚高峰卡顿怎么办？2026 年 9 月 1080P 缓冲与节点选择
 
-> 内容更新：2026-09-22  
+> 内容更新：2026-09-30  
 > 适用场景：VPN 已经连上，Google 也能打开，但 YouTube 一开 1080P 就转圈、晚上 8 点后更明显。  
 > 1080P 仍是筛选项。节点和时段判断沿用 2026-08-13 上海电信 / 广东移动 / 江苏联通记录。
 
@@ -24,7 +24,7 @@ YouTube「能打开」和「能稳定看 1080P」不是一回事。2026 年 8 �
 
 如果你只是想先验证自己的网络能不能看视频，建议用支持免费试用的方案，在自己常用的宽带和晚高峰各测一次，而不是只看别人的测速截图。
 
-> [注册免费试用 ZibVPN](https://zibvpn.com/zh) · [下载客户端](https://zibvpn.com/zh/download)
+> [注册免费试用 ZibVPN](https://zibvpn.com/zh/register) · [下载客户端](https://zibvpn.com/zh/download)
 
 ---
 
@@ -100,7 +100,7 @@ ZibVPN 走 VLESS + Reality 路线，并提供 Windows、Mac、iOS、Android 客�
 
 如果这条路径在你自己的网络上过关，再考虑是否长期用；过不了就换节点或直接停，不需要先付一年。
 
-> [前往 ZibVPN 官网注册免费试用](https://zibvpn.com/zh)
+> [前往 ZibVPN 官网注册免费试用](https://zibvpn.com/zh/register)
 
 ---
 

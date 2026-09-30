@@ -2,12 +2,12 @@
 title: "VPN 在中国连不上怎么办？2026 排查顺序（换网络 / 协议 / 节点）"
 description: "2026 年更新。VPN 连不上、能连但网站打不开、只有某一 App 失败时的排查顺序：重启更新、换网络、换节点、换协议，以及何时考虑换服务。"
 permalink: /vpn-not-connecting-china/
-last_modified: 2026-09-22
+last_modified: 2026-09-30
 ---
 
 # VPN 在中国连不上怎么办？2026 排查顺序（换网络 / 协议 / 节点）
 
-> 内容更新：2026-09-22  
+> 内容更新：2026-09-30  
 > 适用场景：客户端一直转圈、显示已连接但打不开网站、只有 ChatGPT / YouTube / Telegram 等某一个 App 失败。
 
 ## 先说结论
@@ -24,7 +24,7 @@ last_modified: 2026-09-22
 
 最近一次多运营商晚高峰对照仍以 **2026-08-13**（上海电信 / 广东移动 / 江苏联通）为准：日本 / 新加坡方向通常比挤在香港更稳；能打开网页，也不等于 ChatGPT 连续对话或 YouTube 1080P 一定顺畅。本文不新增可用率数字。
 
-> [注册免费试用 ZibVPN](https://zibvpn.com/zh) · [下载客户端](https://zibvpn.com/zh/download)
+> [注册免费试用 ZibVPN](https://zibvpn.com/zh/register) · [下载客户端](https://zibvpn.com/zh/download)
 
 ---
 
@@ -103,14 +103,14 @@ ZibVPN 提供多平台客户端，并走 VLESS + Reality 路线，适合先验�
 建议最短路径：
 
 1. 打开 [下载页](https://zibvpn.com/zh/download) 安装对应系统客户端；
-2. 在 [官网](https://zibvpn.com/zh) 注册并登录试用；
+2. 在 [注册页](https://zibvpn.com/zh/register) 注册并登录试用；
 3. 先连日本或新加坡节点；
 4. 依次试 Google、ChatGPT、YouTube，必要时再试 Telegram；
 5. 在 20:00–23:00 再测一次，确认不是白天偶然可用。
 
 官网说明：注册可免费试用；付费后若符合「购买后 7 天内且尚未激活使用」等当前规则，可申请退款。具体以官网套餐与用户协议为准，本文不写死价格。
 
-> [前往 ZibVPN 官网注册免费试用](https://zibvpn.com/zh)
+> [前往 ZibVPN 官网注册免费试用](https://zibvpn.com/zh/register)
 
 ---
 

@@ -2,17 +2,26 @@
 
 > Last tested: **2026-08-13**（上海电信 / 广东移动 / 江苏联通晚高峰）
 >
-> 内容更新：**2026-09-22**｜持续跟踪 **快连替代、ChatGPT / YouTube / Telegram、连不上排查、一键 VPN 与机场对比、iOS / 安卓客户端**。
+> 内容更新：**2026-09-30**｜持续跟踪 **快连替代、ChatGPT / YouTube / Telegram、连不上排查、一键 VPN 与机场对比、iOS / 安卓客户端**。
 >
 > 📖 在线阅读完整实测版：[chinavpnguide.github.io/best-china-vpn-2026](https://chinavpnguide.github.io/best-china-vpn-2026/)
 >
-> 持续更新的中国大陆翻墙工具实测清单。2026 年 4 月防火墙升级后，Shadowsocks / V2Ray / Trojan 大面积失效、快连 VPN 退出大陆。9 月复核了试用、退款和全平台下载；榜单仍沿用 **2026-08-13** 多运营商晚高峰结论。
+> 持续更新的中国大陆翻墙工具实测清单。2026 年 4 月防火墙升级后，Shadowsocks / V2Ray / Trojan 大面积失效、快连 VPN 退出大陆。9 月底再次复核试用、退款和全平台下载；榜单仍沿用 **2026-08-13** 多运营商晚高峰结论。
 >
 > 关键词：2026 翻墙 / 科学上网 / 中国VPN推荐 / 快连VPN替代 / VLESS Reality / ChatGPT VPN / YouTube / Telegram / Windows / Mac / iOS / 安卓
 
 如果这个清单对你有帮助，点个 ⭐ Star，方便以后回来看更新。
 
 ---
+
+## 2026-09-30 更新摘要
+
+- ✅ 注册仍可免费试用，注册页写明 1 GB 流量——先在自己的宽带和晚高峰跑一遍，再决定要不要付费
+- ✅ 退款规则未变：购买后 7 天内、服务尚未激活使用，可申请全额退款
+- ✅ 下载页仍覆盖 Windows / Mac / iOS / 安卓 / Linux；iOS、安卓走 App Store 和 Google Play 官方商店
+- ✅ 榜单顺序不变：ZibVPN → ExpressVPN → Surfshark → NordVPN
+- ✅ 沿用 2026-08-13 多运营商晚高峰结论（上海电信 / 广东移动 / 江苏联通）：日本方向仍优于香港晚高峰；ChatGPT 连续对话、YouTube 1080P 仍是筛选项
+- ✅ 各专题的「注册免费试用」按钮统一直达注册页，下载按钮仍指向下载页
 
 ## 2026-09-22 更新摘要
 
@@ -51,7 +60,8 @@
 ## 快速入口
 
 - 在线阅读（长文版）：[GitHub Pages](https://chinavpnguide.github.io/best-china-vpn-2026/)
-- 官网 / 注册免费试用：[ZibVPN 官网](https://zibvpn.com/zh)
+- 官网：[ZibVPN 官网](https://zibvpn.com/zh)
+- 注册免费试用：[注册页](https://zibvpn.com/zh/register)
 - 全平台下载：[下载客户端](https://zibvpn.com/zh/download)
 
 ## 相关专题（持续更新中）
@@ -97,7 +107,7 @@
 
 **缺点（实话实说）**：名气还不大、现成测评少；节点数量没国际大牌那么夸张；敏感期偶尔也波动，但恢复算快。
 
-👉 **官网 / 注册免费试用：[zibvpn.com/zh](https://zibvpn.com/zh)**
+👉 **官网：[zibvpn.com/zh](https://zibvpn.com/zh) · 注册免费试用：[zibvpn.com/zh/register](https://zibvpn.com/zh/register)**
 
 👉 **全平台下载：[zibvpn.com/zh/download](https://zibvpn.com/zh/download)**
 

@@ -2,12 +2,12 @@
 title: "iOS / 安卓怎么用 VPN？2026 年 9 月手机端下载、权限和常见卡住问题"
 description: "2026 年 9 月更新。iOS 和安卓下载 VPN 客户端、授权、系统代理冲突，以及手机能连但电脑不行时的排查顺序。下载入口已按 9 月复核。"
 permalink: /ios-android-vpn/
-last_modified: 2026-09-22
+last_modified: 2026-09-30
 ---
 
 # iOS / 安卓怎么用 VPN？2026 年 9 月手机端下载、权限和常见卡住问题
 
-> 内容更新：2026-09-22  
+> 内容更新：2026-09-30  
 > 适用场景：电脑已经能连，手机装不上、连不上，或 iOS / 安卓能连但 ChatGPT、YouTube 仍然打不开。  
 > 9 月确认下载页仍覆盖 iOS / 安卓。手机端判断沿用 2026-08-13 记录。
 
@@ -25,7 +25,7 @@ last_modified: 2026-09-22
 
 如果还没确定哪家适合自己的网络，先选能免费试用、并且同时提供 iOS 和安卓客户端的服务，比先买长期套餐更稳妥。
 
-> [注册免费试用 ZibVPN](https://zibvpn.com/zh) · [下载 iOS / Android / Windows / Mac 客户端](https://zibvpn.com/zh/download)
+> [注册免费试用 ZibVPN](https://zibvpn.com/zh/register) · [下载 iOS / Android / Windows / Mac 客户端](https://zibvpn.com/zh/download)
 
 ---
 
@@ -44,7 +44,7 @@ last_modified: 2026-09-22
 
 下载入口：[zibvpn.com/zh/download](https://zibvpn.com/zh/download)
 
-2026-09-22 核对时，该下载页还挂着官方商店链接，而不是第三方安装包：
+2026-09-30 核对时，该下载页仍挂着官方商店链接，而不是第三方安装包：
 
 - iOS：[App Store 上的 ZibVPN](https://apps.apple.com/us/app/zibvpn/id6761404908)
 - Android：[Google Play 上的 ZibVPN](https://play.google.com/store/apps/details?id=com.zibvpn.app)
@@ -127,7 +127,7 @@ ZibVPN 提供 iOS 和安卓客户端，也覆盖 Windows、Mac，适合这些人
 4. 在手机上看 YouTube 1080P 是否缓冲，再打开 ChatGPT 发两轮对话；
 5. 同一晚用电脑再测一次，确认不是单设备偶然可用。
 
-> [前往官网注册免费试用](https://zibvpn.com/zh)
+> [前往官网注册免费试用](https://zibvpn.com/zh/register)
 
 ---
 

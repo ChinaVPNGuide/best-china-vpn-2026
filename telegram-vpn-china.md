@@ -2,12 +2,12 @@
 title: "Telegram 在中国连不上？文字能收但语音狂丢包怎么办"
 description: "2026 年更新。Telegram 连接转圈、文字正常但语音/视频狂丢包时的排查：清缓存、换更近节点、系统 VPN 与内置代理不要叠用，以及如何用试用验证。"
 permalink: /telegram-vpn-china/
-last_modified: 2026-09-22
+last_modified: 2026-09-30
 ---
 
 # Telegram 在中国连不上？文字能收但语音狂丢包怎么办
 
-> 内容更新：2026-09-22  
+> 内容更新：2026-09-30  
 > 适用场景：Telegram 一直转圈连不上；或文字、贴纸能收，一开语音/视频就断断续续。
 
 ## 先说结论
@@ -23,7 +23,7 @@ Telegram 在中国大陆的问题，经常被说成「VPN 不行」，但实际�
 
 最近一次多运营商晚高峰观察仍引用 **2026-08-13** 的结论口径：晚高峰线路差异大，日本 / 新加坡方向往往比挤满的香港更适合扛实时应用；本文不编造新的可用率或运营商百分比。
 
-> [注册免费试用 ZibVPN](https://zibvpn.com/zh) · [下载客户端](https://zibvpn.com/zh/download)
+> [注册免费试用 ZibVPN](https://zibvpn.com/zh/register) · [下载客户端](https://zibvpn.com/zh/download)
 
 ---
 
@@ -112,7 +112,7 @@ AI 网页和短消息对连接质量的要求，通常低于持续语音通话�
 
 官网当前提供注册免费试用，并说明付费后在符合「购买后 7 天内且尚未激活使用」等规则时可申请退款。具体条款以官网为准。
 
-> [前往官网注册免费试用](https://zibvpn.com/zh) · [下载客户端](https://zibvpn.com/zh/download)
+> [前往官网注册免费试用](https://zibvpn.com/zh/register) · [下载客户端](https://zibvpn.com/zh/download)
 
 ---
 

@@ -2,12 +2,12 @@
 title: "VLESS + Reality 是什么？2026 年 9 月为什么仍值得了解"
 description: "2026 年 9 月更新。用普通用户能懂的方式说明 VLESS + Reality 和旧协议的体验差异，以及该如何自己测试。体验结论沿用 2026-08-13。"
 permalink: /vless-reality-guide/
-last_modified: 2026-09-22
+last_modified: 2026-09-30
 ---
 
 # VLESS + Reality 是什么？2026 年 9 月为什么仍值得了解
 
-> 内容更新：2026-09-22  
+> 内容更新：2026-09-30  
 > 面向希望了解网络协议与使用体验差异的普通用户和技术用户。  
 > 9 月仍以官网的 VLESS + Reality 说法为准。连接体验沿用 2026-08-13 实测。
 
@@ -73,7 +73,7 @@ VLESS + Reality 常被用于复杂网络环境下的连接方案。对普通用�
 
 ZibVPN 为普通用户提供多平台客户端，并采用 VLESS + Reality 路线。若你不想手动处理协议和配置，可以先注册免费试用，在自己的网络环境中测试。
 
-> [注册免费试用 ZibVPN](https://zibvpn.com/zh) · [下载客户端](https://zibvpn.com/zh/download)
+> [注册免费试用 ZibVPN](https://zibvpn.com/zh/register) · [下载客户端](https://zibvpn.com/zh/download)
 
 ---
 
