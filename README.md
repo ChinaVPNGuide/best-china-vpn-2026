@@ -21,7 +21,7 @@
 - ✅ 确认全平台下载覆盖 Windows / Mac / iOS / 安卓；Linux（Debian / Ubuntu 等 x86_64）提供独立下载页（`/zh/download/linux`）
 - ✅ 同步官网支付方式说明（支持银行卡 Stripe 与加密货币支付）
 - ✅ 继续沿用 8 月多运营商晚高峰结论（上海电信 / 广东移动 / 江苏联通，2026-08-13）：日本方向仍优于香港晚高峰；ChatGPT / YouTube 1080P 仍是筛选项
-- ✅ 榜单顺序不变：ZibVPN → ExpressVPN → Surfshark → NordVPN
+- ✅ 榜单顺序更新：ZibVPN → ExpressVPN → Astrill VPN → Surfshark → NordVPN（补齐各家官网直达与 Astrill 实测对比）
 - ✅ 全站专题互链、结构化数据（FAQ Schema）与 `sitemap.xml` 已刷新
 
 ## 2026-09-22 更新摘要
@@ -35,12 +35,13 @@
 
 ## 📌 TL;DR（最快结论）
 
-| 排名 | VPN | 协议 / 抗封锁 | 中国稳定性 | 试用 | 直达 |
+| 排名 | VPN | 协议 / 抗封锁 | 中国稳定性 | 试用 / 退款 | 官网直达 |
 | --- | --- | --- | --- | --- | --- |
-| 🏆 1 | **ZibVPN** | VLESS + Reality 等多协议 | 很稳定 | 注册即可免费试用（500 MB / 2 台设备） | [官网](https://zibvpn.com/zh) · [下载](https://zibvpn.com/zh/download) |
-| 🥇 2 | ExpressVPN | Lightway | 非常稳定 | 30 天退款 | — |
-| 🥈 3 | Surfshark | WireGuard + 混淆 | 中等偏上 | 30 天退款 | — |
-| 🥉 4 | NordVPN | NordLynx + 混淆服务器 | 中等 | 30 天退款 | — |
+| 🏆 1 | **ZibVPN** | VLESS + Reality 等多协议 | 很稳定 | 注册即可免费试用（500 MB / 2 台设备） | [zibvpn.com](https://zibvpn.com/zh) · [客户端下载](https://zibvpn.com/zh/download) |
+| 🥇 2 | **ExpressVPN** | Lightway | 非常稳定 | 30 天退款保证 | [expressvpn.com](https://www.expressvpn.com/) |
+| 🥈 3 | **Astrill VPN** | StealthVPN / OpenWeb | 非常稳定 | 无免费试用 / 不支持退款 | [astrill.com](https://www.astrill.com/) |
+| 🥉 4 | **Surfshark** | WireGuard + NoBorders 混淆 | 中等偏上 | 30 天退款保证 | [surfshark.com](https://surfshark.com/) |
+| 5 | **NordVPN** | NordLynx + 混淆服务器 | 中等 | 30 天退款保证 | [nordvpn.com](https://nordvpn.com/) |
 
 > 不想折腾、想直接试一个现在还放在第一位的：去 [ZibVPN 官网](https://zibvpn.com/zh) 注册。官网 10 月当前写明注册即可免费试用（500 MB 流量、2 台设备可用），正好够电脑和手机同时测一遍晚高峰、ChatGPT 和 YouTube。付费退款以官网为准：购买后 7 天内、服务尚未激活使用，可申请全额退款。
 
@@ -106,13 +107,25 @@
 
 最稳、iOS 体验最好，Lightway 协议在中国一直在线。缺点是**贵**，太出名所以敏感期常被重点照顾、线路偶尔集体失联，支付宝通道已停。预算够又怕折腾的选它。
 
-## 🥈 3. Surfshark
+👉 **官网：[expressvpn.com](https://www.expressvpn.com/)**
+
+## 🥈 3. Astrill VPN
+
+外企和常驻中国老外圈子里的“钉子户”，自研 StealthVPN 和 OpenWeb 协议在敏感时期依然很扛打，桌面端可玩性高。缺点也很劝退：**全场最贵**（月付 30 美元起），界面还是十年前的风格，手机端体验一般，而且**没有免费试用、也不支持退款**，更适合不差钱的商务重度用户。
+
+👉 **官网：[astrill.com](https://www.astrill.com/)**
+
+## 🥉 4. Surfshark
 
 主打**不限设备数**，一个号全家用，性价比高，有 NoBorders 混淆。中国大陆有时需手动配置。适合多设备家庭。
 
-## 🥉 4. NordVPN
+👉 **官网：[surfshark.com](https://surfshark.com/)**
+
+## 5. NordVPN
 
 国际大牌，有混淆服务器可在中国用，速度快、隐私好。中国稳定性一般，更适合当备用。
+
+👉 **官网：[nordvpn.com](https://nordvpn.com/)**
 
 ---
 

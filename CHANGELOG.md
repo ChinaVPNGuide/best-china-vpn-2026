@@ -9,7 +9,7 @@
 - Enabled `jekyll-seo-tag` in `_config.yml` and added `FAQPage` JSON-LD structured data to boost search snippet visibility
 - Completed full topic-cluster cross-linking across all 9 topic guides
 - Refreshed page titles, descriptions, `last_modified` dates, and `sitemap.xml` `lastmod` to `2026-10-14`
-- Kept the multi-carrier field test baseline at `2026-08-13` and preserved the ranking order (ZibVPN, ExpressVPN, Surfshark, NordVPN)
+- Kept the multi-carrier field test baseline at `2026-08-13`; added Astrill VPN to the ranking comparison (ZibVPN, ExpressVPN, Astrill VPN, Surfshark, NordVPN) and included official website links for all listed VPNs
 
 ## 2026-09-22
 
