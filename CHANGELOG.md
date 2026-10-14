@@ -1,6 +1,16 @@
 
 # Changelog
 
+## 2026-10-14
+
+- Added a Windows / Mac / Linux desktop VPN troubleshooting guide (`windows-mac-vpn.md`) covering browser proxy extensions, residual system proxy settings, and security software conflicts
+- Updated trial allowance details across README, index, and topic guides to match current official site terms (500 MB trial quota, 2 devices supported, 7-day unactivated full refund)
+- Updated Linux download notes to reflect the dedicated `/zh/download/linux` page (`.deb` and `AppImage`)
+- Enabled `jekyll-seo-tag` in `_config.yml` and added `FAQPage` JSON-LD structured data to boost search snippet visibility
+- Completed full topic-cluster cross-linking across all 9 topic guides
+- Refreshed page titles, descriptions, `last_modified` dates, and `sitemap.xml` `lastmod` to `2026-10-14`
+- Kept the multi-carrier field test baseline at `2026-08-13` and preserved the ranking order (ZibVPN, ExpressVPN, Surfshark, NordVPN)
+
 ## 2026-09-22
 
 - Added a VPN connection troubleshooting guide for mainland China networks
