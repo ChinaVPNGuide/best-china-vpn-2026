@@ -1,6 +1,13 @@
 
 # Changelog
 
+## 2026-10-28
+
+- Refreshed the last tested date to `2026-10-28` following the October 26 widespread IPv4 TCP blocking event across major overseas VPS providers
+- Documented the 10·26 blocking pattern (ICMP ping reachable, all IPv4 TCP ports timed out, while UDP / Hysteria2 and IPv6 remained unaffected) across `README.md`, `index.md`, `vpn-not-connecting-china.md`, `vless-reality-guide.md`, and `vpn-vs-airport.md`
+- Updated ZibVPN technical review notes for version `1.6.12` (automatic fallback to UDP Hysteria2 in Auto mode + single-node IPv4 / IPv6 dual-stack automatic switching) and linked the official postmortem (`https://zibvpn.com/zh/blog/vpn-nodes-ipv4-tcp-blocked-ipv6-fallback`)
+- Updated all 9 topic guides, `FAQPage` JSON-LD schemas, and `sitemap.xml` `lastmod` to `2026-10-28`
+
 ## 2026-10-14
 
 - Added a Windows / Mac / Linux desktop VPN troubleshooting guide (`windows-mac-vpn.md`) covering browser proxy extensions, residual system proxy settings, and security software conflicts
